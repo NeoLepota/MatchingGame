@@ -35,7 +35,12 @@ Working together on this project helped us understand how to translate logical p
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Screenshots
-[Drag and drop images here on the readme on github]
+"C:\Users\lab_services_student\Pictures\Screenshots\Screenshot (76).png"
+"C:\Users\lab_services_student\Pictures\Screenshots\Screenshot (86).png"
+"C:\Users\lab_services_student\Pictures\Screenshots\Screenshot (80).png"
+"C:\Users\lab_services_student\Pictures\Screenshots\Screenshot (85).png"
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔗 GitHub Repository
+https://github.com/NeoLepota/MatchingGame
